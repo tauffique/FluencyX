@@ -240,8 +240,8 @@ export default function LandingPage() {
               <div className="w-16 h-16 bg-gradient-to-br from-teal-500 to-cyan-600 rounded-2xl flex items-center justify-center mb-6 shadow-lg">
                 <Mic className="w-8 h-8 text-white" />
               </div>
-              <h3 className="font-sora text-2xl font-bold text-gray-900 mb-3">Pronunciation Trainer</h3>
-              <p className="text-gray-600 mb-4">Perfect your accent with AI-powered speech recognition. Get detailed feedback on pronunciation and intonation.</p>
+              <h3 className="font-sora text-2xl font-bold text-gray-900 mb-3">Listening Comprehension</h3>
+              <p className="text-gray-600 mb-4">Perfect your listening test using AI powered test practise.</p>
               <a href="#" className="text-teal-600 font-semibold inline-flex items-center space-x-2 group">
                 <span>Learn more</span>
                 <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
