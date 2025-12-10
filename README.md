@@ -1,4 +1,4 @@
-# FluencySure - AI Language Learning App
+# FluencyX - AI Language Learning App
 
 A modern, AI-powered language learning application built with Next.js, React, and Tailwind CSS.
 
@@ -276,4 +276,4 @@ This project is proprietary and confidential.
 ---
 
 Built with ❤️ using Next.js and Tailwind CSS
-# FluencySure
+# FluencyX

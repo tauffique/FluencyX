@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'FluencySure - Master Languages with AI',
+  title: 'FluencyX - Master Languages with AI',
   description: 'Transform your language learning journey with AI-powered tools, personalized lessons, and interactive practice. Learn smarter, not harder.',
   keywords: ['language learning', 'AI tutor', 'learn languages', 'language app', 'speaking practice'],
 }

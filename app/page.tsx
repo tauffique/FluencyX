@@ -37,12 +37,12 @@ export default function LandingPage() {
             <div className="flex items-center space-x-3 group cursor-pointer">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" className="w-12 h-12">
   <circle cx="25" cy="25" r="24" fill="#4f46e5"/>
-  <text x="50%" y="50%" textAnchor="middle" dy=".35em" fontSize="20" fontWeight="bold" fill="white">FS</text>
+  <text x="50%" y="50%" textAnchor="middle" dy=".35em" fontSize="20" fontWeight="bold" fill="white">FX</text>
 </svg>
 
 
              
-              <span className="font-sora text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">FluencySure</span>
+              <span className="font-sora text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">FluencyX</span>
             </div>
 
             {/* Desktop Menu */}
@@ -434,7 +434,7 @@ export default function LandingPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129"></path>
                   </svg>
                 </div>
-                <span className="font-sora text-xl font-bold">FluencySure</span>
+                <span className="font-sora text-xl font-bold">FluencyX</span>
               </div>
               <p className="text-gray-400 text-sm">Master any language with AI-powered learning tools.</p>
             </div>
@@ -466,7 +466,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">© 2025 FluencySure. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© 2025 FluencyX. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
